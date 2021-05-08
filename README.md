@@ -1,2 +1,2 @@
 # Classes
-Just a random gamelike project to test and work with classes
+Just a random gamelike project to test and work with classes.
