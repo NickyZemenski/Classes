@@ -1,0 +1,13 @@
+C:\Users\Nicky\source\repos\FunClasses\FunClasses\bin\Debug\netcoreapp3.1\FunClasses.exe
+C:\Users\Nicky\source\repos\FunClasses\FunClasses\bin\Debug\netcoreapp3.1\FunClasses.deps.json
+C:\Users\Nicky\source\repos\FunClasses\FunClasses\bin\Debug\netcoreapp3.1\FunClasses.runtimeconfig.json
+C:\Users\Nicky\source\repos\FunClasses\FunClasses\bin\Debug\netcoreapp3.1\FunClasses.runtimeconfig.dev.json
+C:\Users\Nicky\source\repos\FunClasses\FunClasses\bin\Debug\netcoreapp3.1\FunClasses.dll
+C:\Users\Nicky\source\repos\FunClasses\FunClasses\bin\Debug\netcoreapp3.1\FunClasses.pdb
+C:\Users\Nicky\source\repos\FunClasses\FunClasses\obj\Debug\netcoreapp3.1\FunClasses.csprojAssemblyReference.cache
+C:\Users\Nicky\source\repos\FunClasses\FunClasses\obj\Debug\netcoreapp3.1\FunClasses.AssemblyInfoInputs.cache
+C:\Users\Nicky\source\repos\FunClasses\FunClasses\obj\Debug\netcoreapp3.1\FunClasses.AssemblyInfo.cs
+C:\Users\Nicky\source\repos\FunClasses\FunClasses\obj\Debug\netcoreapp3.1\FunClasses.csproj.CoreCompileInputs.cache
+C:\Users\Nicky\source\repos\FunClasses\FunClasses\obj\Debug\netcoreapp3.1\FunClasses.dll
+C:\Users\Nicky\source\repos\FunClasses\FunClasses\obj\Debug\netcoreapp3.1\FunClasses.pdb
+C:\Users\Nicky\source\repos\FunClasses\FunClasses\obj\Debug\netcoreapp3.1\FunClasses.genruntimeconfig.cache
